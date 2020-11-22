@@ -3,6 +3,7 @@
  🌱 I’m currently learning ...
 
  
+ 
  ![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=Chord-West&show_icons=true)
  [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=gustj2005)](https://solved.ac/gustj2005)
 <!--
