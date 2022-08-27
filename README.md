@@ -1,8 +1,5 @@
 ### Chord-West 😄  
----
- 🌱 I’m currently learning
-
- 
+--- 
  
  ![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=Chord-West&show_icons=true)
 <!--
